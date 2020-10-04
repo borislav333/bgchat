@@ -11,6 +11,7 @@ django = "==3.1"
 django-cors-headers = "*"
 djangorestframework = "==3.12"
 gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
